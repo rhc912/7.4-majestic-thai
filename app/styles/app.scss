@@ -15,3 +15,44 @@ $icon-font-path: '../../node_modules/bootstrap-sass/assets/fonts/bootstrap/';
 img {
   max-width: 100%;
 }
+body{
+  background-color: rgb(61,199,167);
+}
+//fonts
+h1, h2, h4{
+  font-family: 'Bungee Shade', cursive;
+}
+//Headings
+.heading{
+  text-align: center;
+  background-color: rgb(206,17,38);
+}
+.menu-heading{
+  margin-left: 200px;
+}
+//Shopping Cart
+.shop{
+  float: right;
+  width: 300px;
+  height: 361px;
+  border: 2px solid grey;
+}
+.shop-list{
+  list-style: none;
+}
+.order{
+  text-align: center;
+
+}
+//Menu
+.menu-items{
+  width: 400px;
+  text-decoration: underline;
+  background-color: rgb(232,232,232);
+}
+.menu-button{
+  float: right;
+}
+.menu-list{
+  list-style: none;
+}
